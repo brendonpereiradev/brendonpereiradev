@@ -8,18 +8,21 @@ Esse é meu primeiro contato com Git e GitHub, e estou começando a entender com
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=brendonpereiradev&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
-## 💻 Tecnologias e Ferramentas que estou aprendendo:
+## 💻 Tecnologias e Ferramentas de Interesse e em Estudo::
+
+[![My Skills](https://skillicons.dev/icons?i=aws,linux,docker,kubernetes,java,python,git,github)](https://skillicons.dev)
 
 
-
-## 🌐 Contato:
+## 🔗 Links
 
 <div align="center">
-  <a href="mailto:brendonjb07@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://www.linkedin.com/in/brendon-souza-128ba127a/">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
+    <a href="https://www.linkedin.com/in/brendon-souza-128ba127a/">
+        <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn">
+    </a>
+    <a href="mailto:brendonjb07@gmail.com">
+        <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail">
+    </a>
 </div>
+
+
 
