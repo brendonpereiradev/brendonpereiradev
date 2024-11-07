@@ -15,7 +15,7 @@ Esse é meu primeiro contato com Git e GitHub, e estou começando a entender com
 
 ## 🔗 Links
 
-<div align="center">
+<div align="left">
     <a href="https://www.linkedin.com/in/brendon-souza-128ba127a/">
         <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn">
     </a>
@@ -23,6 +23,7 @@ Esse é meu primeiro contato com Git e GitHub, e estou começando a entender com
         <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail">
     </a>
 </div>
+
 
 
 
