@@ -10,7 +10,7 @@ Esse é meu primeiro contato com Git e GitHub, e estou começando a entender com
 
 ## 💻 Tecnologias e Ferramentas que estou aprendendo:
 
-<div align="center"> <img src="https://img.shields.io/badge/AWS-000.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/> <img src="https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux"/> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git"/> <img src="https://img.shields.io/badge/Redes-00A4A5?style=for-the-badge&logo=cisco&logoColor=white" alt="Redes"/> </div>
+
 
 ## 🌐 Contato:
 
