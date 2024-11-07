@@ -10,7 +10,7 @@ Esse é meu primeiro contato com Git e GitHub, e estou começando a entender com
 
 ## 💻 Tecnologias e Ferramentas de Interesse e em Estudo::
 
-[![My Skills](https://skillicons.dev/icons?i=aws,linux,docker,kubernetes,java,python,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,linux,docker,kubernetes,java,python,git,github)]
 
 
 ## 🔗 Links
