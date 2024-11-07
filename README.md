@@ -6,7 +6,7 @@ Sou um entusiasta da tecnologia, com foco em computação em nuvem (especialment
 
 Esse é meu primeiro contato com Git e GitHub, e estou começando a entender como tudo funciona. Ainda estou aprendendo a usar essas ferramentas de versionamento e colaboração, mas estou animado para ver como elas vão me ajudar a organizar meus projetos e a explorar novas possibilidades na área de tecnologia.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brendonpereiradev&theme=shadow_blue&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brendonpereiradev&theme=github_dark&show_icons=true)
 
 ## 💻 Tecnologias e Ferramentas de Interesse e em Estudo::
 
@@ -15,7 +15,7 @@ Esse é meu primeiro contato com Git e GitHub, e estou começando a entender com
 
 ## 🔗 Links
 
-<div align="left">
+<div align="center">
     <a href="https://www.linkedin.com/in/brendon-souza-128ba127a/">
         <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn">
     </a>
