@@ -8,7 +8,7 @@ Esse é meu primeiro contato com Git e GitHub, e estou começando a entender com
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brendonpereiradev&theme=github_dark&show_icons=true)
 
-## 💻 Tecnologias e Ferramentas de Interesse e em Estudo::
+## 💻 Tecnologias e Ferramentas de Interesse e em Estudo:
 
 ![My Skills](https://skillicons.dev/icons?i=aws,linux,docker,kubernetes,java,python,git,github)
 
