@@ -2,9 +2,7 @@
 
 ## Me chamo Brendon Souza e estou iniciando minha jornada em Cloud Computing!
 
-Sou um entusiasta da tecnologia, com foco em computação em nuvem (especialmente AWS), e um grande interesse em redes e cibersegurança. Estou sempre em busca de novos conhecimentos para aprimorar minhas habilidades e me tornar um profissional completo.
-
-Esse é meu primeiro contato com Git e GitHub, e estou começando a entender como tudo funciona. Ainda estou aprendendo a usar essas ferramentas de versionamento e colaboração, mas estou animado para ver como elas vão me ajudar a organizar meus projetos e a explorar novas possibilidades na área de tecnologia.
+Sou um entusiasta da tecnologia, com foco em computação em nuvem (especialmente AWS), e um grande interesse em back-end, cibersegurança e redes. Estou sempre em busca de novos conhecimentos para aprimorar minhas habilidades e me tornar um profissional completo.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brendonpereiradev&theme=github_dark&show_icons=true)
 
