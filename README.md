@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00BFFF&size=35&center=true&vCenter=true&width=1000&lines=Oi,+seja+bem-vindo+ao+meu+perfil!+:%29)](https://git.io/typing-svg)
 
-## Me chamo Brendon Souza e estou iniciando minha jornada em Cloud Computing!
+## Me chamo Brendon Souza e estou iniciando minha jornada na área de Tecnologia!
 
 Estudante da tecnologia, com foco em computação em nuvem (especialmente AWS), e um grande interesse em back-end e cibersegurança. Estou sempre em busca de novos conhecimentos para aprimorar minhas habilidades e me tornar um profissional completo.
 
