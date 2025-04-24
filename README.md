@@ -2,7 +2,7 @@
 
 ## Me chamo Brendon Souza e estou iniciando minha jornada na área de Tecnologia!
 
-Estudante da tecnologia, com foco em computação em nuvem (especialmente AWS), e um grande interesse em back-end e cibersegurança. Estou sempre em busca de novos conhecimentos para aprimorar minhas habilidades e me tornar um profissional completo.
+Estudante da tecnologia, com foco em computação em nuvem (AWS), e um grande interesse em DevOps e Back-End. Estou sempre em busca de novos conhecimentos para aprimorar minhas habilidades e me tornar um profissional completo.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brendonpereiradev&theme=github_dark&show_icons=true)
 
