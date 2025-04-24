@@ -8,7 +8,7 @@ Estudante da tecnologia, com foco em computação em nuvem (AWS), e um grande in
 
 ## 💻 Tecnologias e Ferramentas de Interesse e em Estudo:
 
-![My Skills](https://skillicons.dev/icons?i=aws,linux,docker,kubernetes,python,java,git,github)
+![My Skills](https://skillicons.dev/icons?i=aws,linux,docker,kubernetes,python,java,git,github,terraform,ansible)
 
 
 ## 🔗 Links
