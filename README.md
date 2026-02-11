@@ -4,8 +4,6 @@
 
 Estudante da tecnologia, com foco em computação em nuvem (AWS), e um grande interesse em DevOps e Back-End. Estou sempre em busca de novos conhecimentos para aprimorar minhas habilidades e me tornar um profissional completo.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brendonpereiradev&theme=github_dark&show_icons=true)
-
 ## 💻 Tecnologias e Ferramentas de Interesse e em Estudo:
 
 ![My Skills](https://skillicons.dev/icons?i=aws,linux,docker,kubernetes,python,java,git,github,terraform,ansible,prometheus,grafana)
