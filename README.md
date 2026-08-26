@@ -81,43 +81,16 @@ A IA me auxilia na implementação, pesquisa, debugging, refatoração e explora
 
 ## `> certifications`
 
-### `AWS certifications`
+### AWS certified
 
-<div align="center">
+**AWS Certified Solutions Architect – Associate**
+Arquitetura e desenvolvimento de soluções baseadas nos serviços da AWS.
 
-<a href="https://www.credly.com/badges/815c1aa4-52a4-442b-87e0-b6f817a8ee87/public_url">
-  <img src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="150" alt="AWS Certified Solutions Architect – Associate" />
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.credly.com/badges/f641d99f-8390-4023-9968-8b289f9a0602/public_url">
-  <img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="150" alt="AWS Certified Cloud Practitioner" />
-</a>
+**AWS Certified Cloud Practitioner**
+Fundamentos de computação em nuvem e do ecossistema AWS.
 
-</div>
-
-### `AWS training & learning`
-
-<div align="center">
-
-<a href="https://www.credly.com/badges/50f35c08-3ae3-4790-92c0-0d1b9945bb75/public_url">
-  <img src="https://images.credly.com/images/44e2c252-5d19-4574-9646-005f7225bf53/image.png" width="140" alt="AWS re/Start Graduate" />
-</a>
-&nbsp;&nbsp;
-<a href="https://www.credly.com/badges/d5f0458e-952d-4196-ab45-92af634c9482/public_url">
-  <img src="https://images.credly.com/images/7cf036b0-c609-4378-a7be-9969e1dea7ab/blob" width="140" alt="AWS Knowledge: Cloud Essentials - Training Badge" />
-</a>
-&nbsp;&nbsp;
-<a href="https://www.credly.com/badges/f8614d58-739d-4dec-a84c-31a1bf42464b/public_url">
-  <img src="https://images.credly.com/images/519a6dba-f145-4c1a-85a2-1d173d6898d9/image.png" width="140" alt="AWS Knowledge: Architecting (Retired)" />
-</a>
-
-</div>
-
-<div align="center">
-
-<sub>Clique em uma badge para validar a credencial no Credly.</sub>
-
-</div>
+**AWS re/Start Graduate**
+Formação prática em fundamentos de cloud computing e AWS.
 
 ---
 
@@ -125,15 +98,20 @@ A IA me auxilia na implementação, pesquisa, debugging, refatoração e explora
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=brendonpereiradev&show_icons=true&hide_border=true&bg_color=0D1117&title_color=2F81F7&icon_color=2F81F7&text_color=FFFFFF" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brendonpereiradev&layout=compact&hide_border=true&bg_color=0D1117&title_color=2F81F7&text_color=FFFFFF" />
+<a href="https://github.com/brendonpereiradev?tab=followers">
+  <img src="https://img.shields.io/github/followers/brendonpereiradev?style=for-the-badge&logo=github&logoColor=white&label=Followers&labelColor=0D1117&color=111827" alt="GitHub followers" />
+</a>
 
-</div>
+<a href="https://github.com/brendonpereiradev?tab=repositories">
+  <img src="https://img.shields.io/github/stars/brendonpereiradev?affiliations=OWNER&style=for-the-badge&logo=github&logoColor=white&label=Stars&labelColor=0D1117&color=111827" alt="GitHub stars" />
+</a>
 
----
+<a href="https://github.com/brendonpereiradev?tab=repositories">
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fbrendonpereiradev&query=%24.public_repos&style=for-the-badge&logo=github&logoColor=white&label=Public%20repositories&labelColor=0D1117&color=111827" alt="Public repositories" />
+</a>
 
-<div align="center">
+<img src="https://komarev.com/ghpvc/?username=brendonpereiradev&style=for-the-badge&label=Profile%20views&color=111827" alt="Profile views" />
 
-### `Let's connect.`
+<img src="https://img.shields.io/badge/Active%20since-2023-111827?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="Active on GitHub since 2023" />
 
 </div>
