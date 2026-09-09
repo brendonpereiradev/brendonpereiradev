@@ -29,9 +29,9 @@ interests:
   - Building solutions
 
 certifications:
-  - AWS Certified Solutions Architect – Associate
-  - AWS Certified Cloud Practitioner
-  - AWS Certified AI Practitioner
+  - AWS Solutions Architect – Associate
+  - AWS Cloud Practitioner
+  - AWS AI Practitioner
 ```
 
 Sou profissional de TI e estudante de **análise e desenvolvimento de sistemas**, atualmente construindo minha carreira em **cloud computing**, com foco em **infraestrutura e DevOps**.
