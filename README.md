@@ -31,6 +31,7 @@ interests:
 certifications:
   - AWS Certified Solutions Architect – Associate
   - AWS Certified Cloud Practitioner
+  - AWS Certified AI Practitioner
 ```
 
 Sou profissional de TI e estudante de **análise e desenvolvimento de sistemas**, atualmente construindo minha carreira em **cloud computing**, com foco em **infraestrutura e DevOps**.
@@ -90,19 +91,8 @@ A IA me auxilia na implementação, pesquisa, depuração, refatoração e explo
   <a href="https://www.credly.com/badges/f641d99f-8390-4023-9968-8b289f9a0602/public_url">
     <img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="135" alt="AWS Certified Cloud Practitioner" />
   </a>
-</p>
-
-### `AWS training & learning`
-
-<p align="center">
-  <a href="https://www.credly.com/badges/50f35c08-3ae3-4790-92c0-0d1b9945bb75/public_url">
-    <img src="https://images.credly.com/images/44e2c252-5d19-4574-9646-005f7225bf53/image.png" width="125" alt="AWS re/Start Graduate" />
-  </a>
-  <a href="https://www.credly.com/badges/d5f0458e-952d-4196-ab45-92af634c9482/public_url">
-    <img src="https://images.credly.com/images/7cf036b0-c609-4378-a7be-9969e1dea7ab/blob" width="125" alt="AWS Knowledge: Cloud Essentials" />
-  </a>
-  <a href="https://www.credly.com/badges/f8614d58-739d-4dec-a84c-31a1bf42464b/public_url">
-    <img src="https://images.credly.com/images/519a6dba-f145-4c1a-85a2-1d173d6898d9/image.png" width="125" alt="AWS Knowledge: Architecting (Retired)" />
+  <a href="https://www.credly.com/badges/4cd6d552-1a55-4c81-b690-b2d8672e62f5/public_url">
+    <img src="https://images.credly.com/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" width="135" alt="AWS Certified AI Practitioner" />
   </a>
 </p>
 
@@ -118,12 +108,16 @@ A IA me auxilia na implementação, pesquisa, depuração, refatoração e explo
   <a href="https://github.com/brendonpereiradev?tab=followers">
     <img src="https://img.shields.io/github/followers/brendonpereiradev?style=for-the-badge&logo=github&logoColor=white&label=Followers&labelColor=0D1117&color=111827" alt="GitHub followers" />
   </a>
+
   <a href="https://github.com/brendonpereiradev?tab=repositories">
     <img src="https://img.shields.io/github/stars/brendonpereiradev?affiliations=OWNER&style=for-the-badge&logo=github&logoColor=white&label=Stars&labelColor=0D1117&color=111827" alt="GitHub stars" />
   </a>
+
   <a href="https://github.com/brendonpereiradev?tab=repositories">
     <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fbrendonpereiradev&query=%24.public_repos&style=for-the-badge&logo=github&logoColor=white&label=Public%20repositories&labelColor=0D1117&color=111827" alt="Public repositories" />
   </a>
+
   <img src="https://komarev.com/ghpvc/?username=brendonpereiradev&style=for-the-badge&label=Profile%20views&color=111827" alt="Profile views" />
+
   <img src="https://img.shields.io/badge/Active%20since-2023-111827?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="Active on GitHub since 2023" />
 </p>
