@@ -63,14 +63,6 @@ Atuo com suporte técnico N2 e infraestrutura operacional, resolvendo incidentes
   <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 </p>
 
-### `AI tools`
-
-<p>
-  <img src="https://img.shields.io/badge/Antigravity-111827?style=for-the-badge" alt="Antigravity" />
-  <img src="https://img.shields.io/badge/Cursor-111827?style=for-the-badge" alt="Cursor" />
-  <img src="https://img.shields.io/badge/Codex-111827?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Codex" />
-</p>
-
 ---
 
 ## `> ai_workflow`
