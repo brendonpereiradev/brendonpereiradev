@@ -67,7 +67,7 @@ Atuo com suporte técnico N2 e infraestrutura operacional, resolvendo incidentes
 
 ## `> ai_workflow`
 
-Utilizo ferramentas de inteligência artificial como parte do meu processo de desenvolvimento, principalmente **Antigravity** e **Cursor**.
+Utilizo ferramentas de inteligência artificial como parte do meu processo de desenvolvimento, principalmente **Antigravity** e **ChatGPT**.
 
 A IA me auxilia na implementação, pesquisa, depuração, refatoração e exploração de soluções, enquanto utilizo os projetos como uma forma prática de desenvolver meus conhecimentos em infraestrutura, cloud computing, automação e desenvolvimento.
 
