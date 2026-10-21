@@ -85,8 +85,6 @@ Atuo com suporte técnico N2 e infraestrutura operacional, resolvendo incidentes
 
 ---
 
-## `> github_stats`
-
 <p align="center">
   <a href="https://github.com/brendonpereiradev?tab=followers">
     <img src="https://img.shields.io/github/followers/brendonpereiradev?style=for-the-badge&logo=github&logoColor=white&label=Followers&labelColor=0D1117&color=111827" alt="GitHub followers" />
