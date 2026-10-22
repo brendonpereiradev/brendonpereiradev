@@ -5,6 +5,10 @@
 </p>
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Building+my+path+in+Cloud+%26+DevOps;Infrastructure+%7C+Automation+%7C+AWS;Learning.+Building.+Improving." width="600" alt="Building my path in Cloud and DevOps" />
+</p>
+
+<p align="center">
   <a href="README.md">Português</a> · <strong>English</strong>
 </p>
 
