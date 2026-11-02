@@ -22,7 +22,7 @@ Estou construindo minha carreira em cloud computing, com foco em infraestrutura 
 
 | Projeto | Descrição | Tecnologias |
 |---|---|---|
-| [Hermes](https://github.com/brendonpereiradev/Hermes) | Instala e padroniza impressoras de rede em vários computadores remotamente, com reversão automática em caso de falha. | C#, .NET 8, WPF, WMI, LDAP |
+| [PrinterInstall](https://github.com/brendonpereiradev/Hermes) | Instala e padroniza impressoras de rede em vários computadores remotamente, com reversão automática em caso de falha. | C#, .NET 8, WPF, WMI, LDAP |
 | [Apogeu](https://github.com/brendonpereiradev/Apogeu) | Bot do Telegram que reúne vagas de turismo de sete sites e envia as novas duas vezes por dia. | TypeScript, Cloudflare Workers e KV |
 
 ---
