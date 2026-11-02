@@ -22,9 +22,8 @@ I'm building my career in cloud computing, focused on infrastructure and DevOps.
 
 | Project | Description | Technologies |
 |---|---|---|
+| [Hermes](https://github.com/brendonpereiradev/Hermes) | Installs and standardizes network printers on many computers remotely, rolling back automatically on failure. | C#, .NET 8, WPF, WMI, LDAP |
 | [Apogeu](https://github.com/brendonpereiradev/Apogeu) | Telegram bot that gathers tourism job openings from seven sites and sends the new ones twice a day. | TypeScript, Cloudflare Workers and KV |
-| [Vistora](https://github.com/brendonpereiradev/Vistora) | Desktop app that opens, works and closes preventive-visit tickets in Jira through Microsoft Edge. | C#, .NET 10, WPF, Playwright |
-| [PrinterInstall](https://github.com/brendonpereiradev/PrinterInstall) | Installs and standardizes network printers on many computers remotely, rolling back automatically on failure. | C#, .NET 8, WPF, WMI, LDAP |
 
 ---
 
